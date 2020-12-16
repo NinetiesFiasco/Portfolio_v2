@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Portfolio_v2/static/css/main.ec4f341f.chunk.css",
+    "main.js": "/Portfolio_v2/static/js/main.2deef4a3.chunk.js",
+    "main.js.map": "/Portfolio_v2/static/js/main.2deef4a3.chunk.js.map",
+    "runtime-main.js": "/Portfolio_v2/static/js/runtime-main.0f32297c.js",
+    "runtime-main.js.map": "/Portfolio_v2/static/js/runtime-main.0f32297c.js.map",
+    "static/js/2.dc5916dd.chunk.js": "/Portfolio_v2/static/js/2.dc5916dd.chunk.js",
+    "static/js/2.dc5916dd.chunk.js.map": "/Portfolio_v2/static/js/2.dc5916dd.chunk.js.map",
+    "index.html": "/Portfolio_v2/index.html",
+    "precache-manifest.bc097132c684d68fdadb51759126b145.js": "/Portfolio_v2/precache-manifest.bc097132c684d68fdadb51759126b145.js",
+    "service-worker.js": "/Portfolio_v2/service-worker.js",
+    "static/css/main.ec4f341f.chunk.css.map": "/Portfolio_v2/static/css/main.ec4f341f.chunk.css.map",
+    "static/js/2.dc5916dd.chunk.js.LICENSE.txt": "/Portfolio_v2/static/js/2.dc5916dd.chunk.js.LICENSE.txt",
+    "static/media/bg.png": "/Portfolio_v2/static/media/bg.54dd68bd.png",
+    "static/media/App.css": "/Portfolio_v2/static/media/myArchangelsk.2e711278.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f32297c.js",
+    "static/js/2.dc5916dd.chunk.js",
+    "static/css/main.ec4f341f.chunk.css",
+    "static/js/main.2deef4a3.chunk.js"
+  ]
+}
