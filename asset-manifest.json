@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Portfolio_v2/static/css/main.644acf32.chunk.css",
-    "main.js": "/Portfolio_v2/static/js/main.bbbff578.chunk.js",
-    "main.js.map": "/Portfolio_v2/static/js/main.bbbff578.chunk.js.map",
-    "runtime-main.js": "/Portfolio_v2/static/js/runtime-main.0f32297c.js",
-    "runtime-main.js.map": "/Portfolio_v2/static/js/runtime-main.0f32297c.js.map",
-    "static/js/2.dc5916dd.chunk.js": "/Portfolio_v2/static/js/2.dc5916dd.chunk.js",
-    "static/js/2.dc5916dd.chunk.js.map": "/Portfolio_v2/static/js/2.dc5916dd.chunk.js.map",
+    "main.css": "/Portfolio_v2/static/css/main.32bac4cb.chunk.css",
+    "main.js": "/Portfolio_v2/static/js/main.218abc0b.chunk.js",
+    "main.js.map": "/Portfolio_v2/static/js/main.218abc0b.chunk.js.map",
+    "runtime-main.js": "/Portfolio_v2/static/js/runtime-main.bd988f69.js",
+    "runtime-main.js.map": "/Portfolio_v2/static/js/runtime-main.bd988f69.js.map",
+    "static/js/2.cd5616ca.chunk.js": "/Portfolio_v2/static/js/2.cd5616ca.chunk.js",
+    "static/js/2.cd5616ca.chunk.js.map": "/Portfolio_v2/static/js/2.cd5616ca.chunk.js.map",
     "index.html": "/Portfolio_v2/index.html",
-    "precache-manifest.1312b7e5f8463dba7beafb7bd84d791f.js": "/Portfolio_v2/precache-manifest.1312b7e5f8463dba7beafb7bd84d791f.js",
+    "precache-manifest.9da2ee5ea3555f3992df13a6abba9896.js": "/Portfolio_v2/precache-manifest.9da2ee5ea3555f3992df13a6abba9896.js",
     "service-worker.js": "/Portfolio_v2/service-worker.js",
-    "static/css/main.644acf32.chunk.css.map": "/Portfolio_v2/static/css/main.644acf32.chunk.css.map",
-    "static/js/2.dc5916dd.chunk.js.LICENSE.txt": "/Portfolio_v2/static/js/2.dc5916dd.chunk.js.LICENSE.txt",
+    "static/css/main.32bac4cb.chunk.css.map": "/Portfolio_v2/static/css/main.32bac4cb.chunk.css.map",
+    "static/js/2.cd5616ca.chunk.js.LICENSE.txt": "/Portfolio_v2/static/js/2.cd5616ca.chunk.js.LICENSE.txt",
     "static/media/bg.jpg": "/Portfolio_v2/static/media/bg.80308f22.jpg",
     "static/media/bg.png": "/Portfolio_v2/static/media/bg.514f0937.png",
     "static/media/App.css": "/Portfolio_v2/static/media/myArchangelsk.2e711278.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.0f32297c.js",
-    "static/js/2.dc5916dd.chunk.js",
-    "static/css/main.644acf32.chunk.css",
-    "static/js/main.bbbff578.chunk.js"
+    "static/js/runtime-main.bd988f69.js",
+    "static/js/2.cd5616ca.chunk.js",
+    "static/css/main.32bac4cb.chunk.css",
+    "static/js/main.218abc0b.chunk.js"
   ]
 }
